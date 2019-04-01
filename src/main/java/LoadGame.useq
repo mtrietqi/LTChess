@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.2.2" icons="true" automaticImage="GIF" generate-combined-fragments="true">  
+  <object id="1" language="java" name="java.awt.event.ActionListener" project="LT Chess Project" 
+    file="C:/Program Files/Java/jre1.8.0_101/lib/rt.jar" binary="true" label="actionListener" type="interface" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="2">      
+      <position height="1183" width="106" x="5" y="131"/>    
+    </execution>  
+  </object>  
+  <object id="5" language="java" name="LTChess.GUI.MainFrame" project="LT Chess Project" 
+    file="/LT Chess Project/src/LTChess/GUI/MainFrame.java" binary="false" label="mainFrame" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="280" y="0"/>    
+    <execution id="4">      
+      <position height="1141" width="86" x="115" y="152"/>    
+    </execution>    
+    <execution id="38">      
+      <position height="21" width="7" x="155" y="304"/>    
+    </execution>    
+    <execution id="39">      
+      <position height="21" width="7" x="155" y="540"/>    
+    </execution>    
+    <execution id="40">      
+      <position height="21" width="7" x="155" y="393"/>    
+    </execution>    
+    <execution id="19">      
+      <position height="21" width="86" x="115" y="668"/>    
+    </execution>    
+    <execution id="41">      
+      <position height="21" width="7" x="155" y="740"/>    
+    </execution>    
+    <execution id="42">      
+      <position height="21" width="7" x="155" y="866"/>    
+    </execution>    
+    <execution id="43">      
+      <position height="21" width="7" x="155" y="1010"/>    
+    </execution>    
+    <execution id="44">      
+      <position height="21" width="7" x="155" y="1187"/>    
+    </execution>  
+  </object>  
+  <object id="45" language="java" name="javax.swing.JFileChooser" project="LT Chess Project" 
+    file="C:/Program Files/Java/jre1.8.0_101/lib/rt.jar" binary="true" label="jFileChooser" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="7">      
+      <position height="21" width="97" x="205" y="239"/>    
+    </execution>    
+    <execution id="9">      
+      <position height="68" width="97" x="205" y="278"/>    
+    </execution>  
+  </object>  
+  <object id="47" language="java" name="LTChess.GUI.SaveGame" project="LT Chess Project" 
+    file="/LT Chess Project/src/LTChess/GUI/SaveGame.java" binary="false" label="saveGame" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="462" y="0"/>    
+    <execution id="11">      
+      <position height="65" width="84" x="306" y="370"/>    
+    </execution>  
+  </object>  
+  <object id="49" language="java" name="java.io.ObjectInputStream" project="LT Chess Project" 
+    file="C:/Program Files/Java/jre1.8.0_101/lib/rt.jar" binary="true" label="objectInputStream" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="13">      
+      <position height="21" width="130" x="394" y="466"/>    
+    </execution>    
+    <execution id="15">      
+      <position height="78" width="130" x="394" y="504"/>    
+    </execution>  
+  </object>  
+  <object id="51" language="java" name="javax.swing.JFrame" project="LT Chess Project" 
+    file="C:/Program Files/Java/jre1.8.0_101/lib/rt.jar" binary="true" label="jFrame" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="17">      
+      <position height="21" width="66" x="528" y="596"/>    
+    </execution>  
+  </object>  
+  <object id="52" language="java" name="LTChess.GUI.SaveGame" project="LT Chess Project" 
+    file="/LT Chess Project/src/LTChess/GUI/SaveGame.java" binary="false" label="saveGame1" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="707" y="0"/>    
+    <execution id="21">      
+      <position height="76" width="84" x="598" y="706"/>    
+    </execution>    
+    <execution id="25">      
+      <position height="69" width="84" x="598" y="839"/>    
+    </execution>    
+    <execution id="29">      
+      <position height="70" width="84" x="598" y="982"/>    
+    </execution>    
+    <execution id="35">      
+      <position height="65" width="84" x="598" y="1164"/>    
+    </execution>  
+  </object>  
+  <object id="57" language="java" name="LTChess.GUI.ClockPanel" project="LT Chess Project" 
+    file="/LT Chess Project/src/LTChess/GUI/ClockPanel.java" binary="false" label="clockPanel" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="754" y="0"/>    
+    <execution id="31">      
+      <position height="21" width="87" x="686" y="1072"/>    
+    </execution>  
+  </object>  
+  <object id="58" language="java" name="java.awt.Container" project="LT Chess Project" 
+    file="C:/Program Files/Java/jre1.8.0_101/lib/rt.jar" binary="true" label="container" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="37">      
+      <position height="21" width="78" x="777" y="1251"/>    
+    </execution>    
+    <execution id="23">      
+      <position height="21" width="78" x="777" y="800"/>    
+    </execution>    
+    <execution id="27">      
+      <position height="21" width="78" x="777" y="927"/>    
+    </execution>    
+    <execution id="33">      
+      <position height="21" width="78" x="777" y="1117"/>    
+    </execution>  
+  </object>  
+  <message id="3" operation="loadGameFromFile():void" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="6" operation="setFileFilter(javax.swing.filechooser.FileFilter):void" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="7"/>  
+  </message>  
+  <message id="8" operation="getSelectedFile():java.io.File" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="9"/>  
+  </message>  
+  <message id="10" operation="SaveGame()" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="11"/>  
+  </message>  
+  <message id="12" operation="ObjectInputStream(java.io.InputStream)" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="13"/>  
+  </message>  
+  <message id="14" operation="readObject():java.lang.Object" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="15"/>  
+  </message>  
+  <message id="16" operation="JFrame()" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="17"/>  
+  </message>  
+  <message id="18" operation="createMenuBar(javax.swing.JMenuBar):void" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="19"/>  
+  </message>  
+  <message id="20" operation="getBoard():LTChess.ChessBoard.ChessBoard" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="21"/>  
+  </message>  
+  <message id="22" operation="add(java.awt.Component):java.awt.Component" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="23"/>  
+  </message>  
+  <message id="24" operation="getMoveHistory():LTChess.GUI.MoveHistoryPanel" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="25"/>  
+  </message>  
+  <message id="26" operation="add(java.awt.Component):java.awt.Component" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="27"/>  
+  </message>  
+  <message id="28" operation="getClockPanelData():java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="29"/>  
+  </message>  
+  <message id="30" operation="startClockFromSaveGame(java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="31"/>  
+  </message>  
+  <message id="32" operation="add(java.awt.Component):java.awt.Component" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="33"/>  
+  </message>  
+  <message id="34" operation="getDefeatedPiecesPanel():LTChess.GUI.DefeatedPiecesPanel" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="35"/>  
+  </message>  
+  <message id="36" operation="add(java.awt.Component):java.awt.Component" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="37"/>  
+  </message>  
+  <message id="46" asynchronous="false">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="38"/>  
+  </message>  
+  <message id="48" asynchronous="false">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="40"/>  
+  </message>  
+  <message id="50" asynchronous="false">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="39"/>  
+  </message>  
+  <message id="53" asynchronous="false">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="41"/>  
+  </message>  
+  <message id="54" asynchronous="false">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="42"/>  
+  </message>  
+  <message id="55" asynchronous="false">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="43"/>  
+  </message>  
+  <message id="56" asynchronous="false">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="44"/>  
+  </message>
+</sequence-diagram>

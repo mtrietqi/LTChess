@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestUnits" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-01-06T09:51:13" hostname="DESKTOP-7T2Q2P4" time="0.025">
+  <properties/>
+  <testcase name="testcase1" classname="TestUnits" time="0.002"/>
+  <testcase name="testcase2" classname="TestUnits" time="0.0"/>
+  <testcase name="testcase3" classname="TestUnits" time="0.018"/>
+  <testcase name="testcase4" classname="TestUnits" time="0.004"/>
+  <system-out><![CDATA[  r  n  b  q  k  b  n  r
+  p  p  p  p  p  p  p  p
+  -  -  -  -  -  -  -  -
+  -  -  -  -  -  -  -  -
+  -  -  -  -  -  -  -  -
+  -  -  -  -  -  -  -  -
+  P  P  P  P  P  P  P  P
+  R  N  B  Q  K  B  N  R
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
